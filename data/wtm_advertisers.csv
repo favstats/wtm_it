@@ -4,6 +4,7 @@ id,name,created_at,advertisers_entities.id,entities.short_name,entities.is_activ
 01555d09-7389-49e1-a51b-1a7ab28a948a,Partito Democratico Bracciano,2022-09-21T08:45:37.797Z,fd6247f3-3f03-4902-aafb-6bec394e854d,PD,true,true,Italy,it,327625154101213,Partito Democratico Bracciano,Facebook
 017381b5-cdd6-4607-9aa7-32432ff63ebc,Giacomo D'Arrigo PD,2022-09-07T07:15:41.748Z,7a30c894-ca13-4f92-83a5-be0b8c2973f1,PD,true,true,Italy,it,111764854985561,Giacomo D'Arrigo PD,Facebook
 023e5a1d-880a-4dc2-bca9-729db85afa0b,PD Cordenons,2023-02-27T10:54:24.177Z,4b72fadc-ba82-452d-8f6e-9bed2318ea2b,PD,true,true,Italy,it,112640061546563,PD Cordenons,Facebook
+0271d42e-65c1-4b3b-93c6-db08fc94b0cd,Circolo PD Peretola Brozzi Quaracchi,2023-11-10T06:24:50.045Z,14ac9c67-1c7c-437e-8199-1aedd7ab0e4a,PD,true,true,Italy,it,320912125051627,Circolo PD Peretola Brozzi Quaracchi,Facebook
 055e3898-c89a-4034-9c7a-94a93e8d1c03,PD Santa Sofia,2023-08-27T05:07:40.996Z,6d31509e-c4bd-4e69-b624-76c8bb64e3de,PD,true,true,Italy,it,1500610086864012,PD Santa Sofia,Facebook
 07aca229-290d-46f3-9ef6-032fd93a6863,Partito Democratico - Carate Brianza,2022-09-27T07:08:39.521Z,2d2de101-33b4-4cbe-9c24-3b06bd44d234,PD,true,true,Italy,it,719953938019744,Partito Democratico - Carate Brianza,Facebook
 07f79a44-87b1-4af6-961b-5fcc4a054f88,Partito Democratico Valderice,2023-02-26T10:54:29.328Z,4543d73a-bd3f-4df4-8d88-158b3d32201b,PD,true,true,Italy,it,100150525201030,Partito Democratico Valderice,Facebook
@@ -17,9 +18,11 @@ id,name,created_at,advertisers_entities.id,entities.short_name,entities.is_activ
 0dbb7069-e3b3-4443-94ee-6b1f9cc74069,PD Arcore,2023-02-25T10:54:27.426Z,1a7d4b5a-8e76-42b7-888d-613d542af0bc,PD,true,true,Italy,it,669996236446883,PD Arcore,Facebook
 0eb9ec62-66c5-46b3-9c5a-a40a93de2b73,PD Provincia Di Cuneo,2022-09-07T07:15:41.133Z,1f565644-14c1-40ec-8c45-bb348928ceae,PD,true,true,Italy,it,1562049804034915,PD Provincia Di Cuneo,Facebook
 10dc1c26-dfc0-47b4-9e7a-89b883d44959,"PD Bresso, Circolo ""A. Vassallo""",2023-05-06T06:54:06.654Z,006af14e-3669-4713-8c92-30890ed735a8,PD,true,true,Italy,it,1402646906671973,"PD Bresso, Circolo ""A. Vassallo""",Facebook
+11c8a17b-de5d-49c1-b66e-e5b2ad3abbf0,Generazioni - PD Polesine,2023-11-05T06:17:09.735Z,dea18842-28e3-42ae-a096-ffded75ed493,PD,true,true,Italy,it,108312188820597,Generazioni - PD Polesine,Facebook
 128f8480-ba57-4429-bc65-8ba8aee58d20,PD Poggio Renatico,2023-02-27T10:54:24.404Z,7e998e21-9f2b-4825-88b8-c6f7a082fb50,PD,true,true,Italy,it,1185750621441122,PD Poggio Renatico,Facebook
 14067e53-8d15-413d-a37c-60e0b70477cf,PD Villadossola,2023-02-07T15:06:10.296Z,62de443e-f061-487e-99a7-ce28cd3f4ad5,PD,true,true,Italy,it,104637922131446,PD Villadossola,Facebook
 147f5fd3-be2d-44fa-92c8-378124b8fb73,PD Bovisio Masciago,2022-09-26T17:36:19.527Z,94cd816c-c4bf-4522-a3fd-f18e4d041810,PD,true,true,Italy,it,415837031877100,PD Bovisio Masciago,Facebook
+171f2ede-c164-4cb9-aeb2-dbda9ebbd764,Partito Democratico Argelato-Funo,2023-10-25T05:09:11.042Z,016b1cd6-1a69-4fae-8bf8-3e4184d283f0,PD,true,true,Italy,it,818019108253047,Partito Democratico Argelato-Funo,Facebook
 174d11b2-24be-4a9c-a675-0f98738a3be6,Martina Riggi - Partito Democratico,2022-09-11T12:33:05.914Z,ab2def19-8536-4d8f-9d35-28f077ffc211,PD,true,true,Italy,it,102012039305415,Martina Riggi - Partito Democratico,Facebook
 180d5a50-b7e7-4247-9a12-f5348d7e733f,Festa de L'Unità Schiranna - Varese,2022-09-07T07:15:42.028Z,b50a860c-722a-4eb6-9ec9-e5b492a6671a,PD,true,true,Italy,it,262299654112124,Festa de L'Unità Schiranna - Varese,Facebook
 181f1dd7-9a79-40cb-adfd-88d8dc9a5b6c,PD Vicenza città,2022-09-21T08:45:33.106Z,f2ce8c54-46e9-4446-945a-c37553816e22,PD,true,true,Italy,it,523453677676092,PD Vicenza città,Facebook
@@ -49,10 +52,12 @@ id,name,created_at,advertisers_entities.id,entities.short_name,entities.is_activ
 2f06a845-d74d-4956-bce5-1924b4be72fa,PD Caravaggio,2023-02-28T10:54:29.727Z,875b5316-017c-409d-985c-180049c89398,PD,true,true,Italy,it,1064613593599491,PD Caravaggio,Facebook
 2f30b76f-b9a0-44c9-b69e-b068f377be6b,PD Aurelio,2023-03-13T10:54:22.527Z,d724bdc7-36e7-4735-87d9-1e3052e3d924,PD,true,true,Italy,it,344545715705333,PD Aurelio,Facebook
 30fb531b-b040-41db-b85b-f2e6cce0fdf4,PD Copparo,2023-08-28T05:07:33.440Z,0dd1a282-74e8-4b9d-8648-d007b239541c,PD,true,true,Italy,it,381982495308897,PD Copparo,Facebook
+3307d568-e3a4-4ce6-b2e1-6c5613525d00,Partito Democratico Fano,2023-12-14T05:07:56.504Z,4f84b5ec-2b12-4483-bc29-6d270a18a246,PD,true,true,Italy,it,811689828869523,Partito Democratico Fano,Facebook
 35c79055-6e00-4bed-af21-756c91897a09,Partito Democratico Taurisano,2023-07-04T06:17:23.111Z,d4070b96-ca09-4819-8fae-872ed34041c3,PD,true,true,Italy,it,113946905078774,Partito Democratico Taurisano,Facebook
 36e154dd-21cd-4a32-b84b-055341a72e21,PD San Donato Milanese,2023-02-24T10:54:22.608Z,cac94bfc-21a6-41ec-84e0-493d3f1fc62d,PD,true,true,Italy,it,655999437776201,PD San Donato Milanese,Facebook
 375e9fcc-5799-40e5-968f-53f5b425e827,PD Grumello del Monte,2023-06-15T06:54:04.194Z,7cb95af9-96b3-41cf-84c6-9e4d886c639c,PD,true,true,Italy,it,1579271335506137,PD Grumello del Monte,Facebook
 38202cc7-01be-4d71-bb8f-8e1cbeb7e914,Circolo Pd Porto Cesareo,2023-02-27T10:54:24.879Z,a9c022d4-a5c0-4730-a212-795b6b39f14c,PD,true,true,Italy,it,262181604154535,Circolo Pd Porto Cesareo,Facebook
+3824b91e-76c2-44e2-898a-96f50418fc8f,PD Cagliari,2023-11-24T05:09:09.410Z,86d2c7c8-9172-4003-842c-2ffc33c3c536,PD,true,true,Italy,it,286814571423721,PD Cagliari,Facebook
 383eb780-0451-4989-a950-0a5bc3b64275,Partito Democratico - Colle di Val d'Elsa,2023-09-02T05:07:43.010Z,e7a25853-85fb-4ad9-8e49-5b6db68bb57b,PD,true,true,Italy,it,148951355299321,Partito Democratico - Colle di Val d'Elsa,Facebook
 38b31532-6b2f-4675-a4bb-0a0009f2ee7c,Partito Democratico Circolo di Dogliani,2022-09-07T07:15:43.466Z,be0eba7b-ba10-4209-b932-679775501cc6,PD,true,true,Italy,it,1449917045144695,Partito Democratico Circolo di Dogliani,Facebook
 395fd210-2348-4cb1-9dea-cee07e651350,Circolo PD Marsicovetere Villa D'Agri,2023-03-02T10:54:19.532Z,879702d9-0c67-40d8-a6cd-ad324ac30e73,PD,true,true,Italy,it,115155611494732,Circolo PD Marsicovetere Villa D'Agri,Facebook
@@ -216,6 +221,7 @@ de583b05-94a0-43d7-8c1e-d331cf8aebed,Nadia Romeo,2022-09-26T17:36:14.208Z,e2ef16
 dec05cf9-cf09-4e38-a294-557cb6d76691,PD Siracusa,2023-05-23T06:54:18.941Z,270f9aff-249b-4570-89d9-c94bb921533e,PD,true,true,Italy,it,1675962579318874,PD Siracusa,Facebook
 e2f752a8-e6fc-45a5-baf3-95602758e47a,Gruppo Partito Democratico - Regione Liguria,2023-02-07T15:06:09.500Z,354c6544-7c60-411f-97c8-8d8547f10769,PD,true,true,Italy,it,136117531977459,Gruppo Partito Democratico - Regione Liguria,Facebook
 e34fb0b9-1d74-48eb-b2f8-0ca73bcbd728,PD Provinciale Imperia,2022-09-07T07:15:41.949Z,bb1afd38-b28b-4d6d-9b38-c74e70992f9b,PD,true,true,Italy,it,321011178022751,PD Provinciale Imperia,Facebook
+e3a714e3-f846-4225-9251-447eaccede1d,Partito Democratico Di Cormano,2023-11-26T05:08:59.224Z,ed6595aa-3659-4af8-8e7e-c26369247e43,PD,true,true,Italy,it,321681994685882,Partito Democratico Di Cormano,Facebook
 e5198a50-7cfb-40d6-a74c-1f976696f912,Marta Andreola - Candidata al Consiglio regionale della Lombardia,2023-02-12T10:54:09.400Z,2be1d01d-5e91-448b-a1e2-e5dfdb2f0668,PD,true,true,Italy,it,102958102698415,Marta Andreola - Candidata al Consiglio regionale della Lombardia,Facebook
 e6224bcf-8a23-4ea0-8809-6c6148313aa6,Partito Democratico - Teglio Veneto,2022-09-19T11:45:39.985Z,b7146afb-7616-45d8-8121-c28970ae4c5e,PD,true,true,Italy,it,2892593957632569,Partito Democratico - Teglio Veneto,Facebook
 e629b57d-129a-4856-87fa-e4a87aa50075,Partito Democratico di Ancona,2022-09-21T08:45:37.627Z,b98e0143-41c9-4264-b0fa-75b24ae47f14,PD,true,true,Italy,it,624145571047917,Partito Democratico di Ancona,Facebook
@@ -223,6 +229,7 @@ eb3d46a4-db77-4577-9e80-6fb6ee7fe57a,Rimini con Bonaccini,2023-02-20T10:54:21.96
 ec9c7b82-f4b3-47e3-a745-b92bbb307534,Partito Democratico Bagno A Ripoli,2023-07-07T13:17:16.571Z,ff3b6ffb-2163-488d-a783-65db0cc42bcf,PD,true,true,Italy,it,268138826715429,Partito Democratico Bagno A Ripoli,Facebook
 ed3f97eb-0814-487c-a105-ec1757c78352,PD Roma Municipio 13,2022-09-07T07:15:41.808Z,113b71ff-4c3a-4b5d-9831-de12399e098c,PD,true,true,Italy,it,233884556774076,PD Roma Municipio 13,Facebook
 ed728961-dd47-4a70-93d7-b6fe0918b2b7,Partito Democratico Nichelino,2022-09-07T07:15:42.989Z,20decc01-34c5-4eb7-997f-c35f4efa3271,PD,true,true,Italy,it,161854823852414,Partito Democratico Nichelino,Facebook
+ed9b860f-5ae4-479a-a95c-17d95f54e286,PD Palo del Colle,2023-12-06T05:07:40.048Z,51370c54-4fc5-48d6-a318-13f1a16e3b99,PD,true,true,Italy,it,1578164322435113,PD Palo del Colle,Facebook
 ee35f017-686e-4f3c-849b-ce3c7bf6f3f0,Partito Democratico del Trentino,2022-09-07T07:15:41.165Z,83bc08bf-c818-4150-9a45-19d095130bb8,PD,true,true,Italy,it,198004843626128,Partito Democratico del Trentino,Facebook
 f0f2d84f-103e-4900-8a5a-fe4d4125a1be,Festa Bosco Albergati,2023-07-17T06:32:55.952Z,0b37f33c-7d9a-4625-9c03-28ba7009e293,PD,true,true,Italy,it,677410842344307,Festa Bosco Albergati,Facebook
 f1e87e2b-d138-48e5-83d9-4587636ac3d9,PD Inzago,2022-09-15T13:23:43.314Z,2dd802b4-0aa7-4a34-a266-854805554ed0,PD,true,true,Italy,it,141284289267240,PD Inzago,Facebook
@@ -280,6 +287,7 @@ ed4bd1ee-0dc4-45ba-bfe8-2bf361879de6,Lega FVG per Salvini Premier,2023-03-19T10:
 ee782994-b11b-4c3b-9771-8072b2ae6d6f,Lega  Salvini Premier  Bassa Est  Terre di Mezzo,2023-05-13T06:54:31.154Z,c9e7692a-cacd-4da4-8623-ddedf61f16b7,Leg,true,true,Italy,it,103628514507500,Lega  Salvini Premier  Bassa Est  Terre di Mezzo,Facebook
 0354034d-b821-41b7-b421-8f49c639a00f,Forza Italia Arese,2023-04-22T06:04:47.190Z,f57a4493-93e6-463e-8238-73b311e27421,FI,true,true,Italy,it,1653129981574064,Forza Italia Arese,Facebook
 0a3fc28d-c018-4b6f-80d3-22ef434d6941,Senatori Forza Italia,2022-09-07T07:15:38.748Z,6bc7933c-62e4-440c-9211-3bb258a0d5fe,FI,true,true,Italy,it,2009307932666872,Senatori Forza Italia,Facebook
+0de697f9-536c-4e94-b7c5-b0959291446e,Forza Italia Cremona Città,2023-11-19T05:07:39.872Z,f884d2c9-886c-4c02-8935-a760bc5c1feb,FI,true,true,Italy,it,137384939450786,Forza Italia Cremona Città,Facebook
 0e8678db-49aa-40c2-bf39-c02fd545731e,Forza Italia per Pieve Emanuele,2023-03-08T18:32:02.563Z,42c0939e-bea7-4fd6-8890-1b1b34b2c125,FI,true,true,Italy,it,102069156126805,Forza Italia per Pieve Emanuele,Facebook
 17ac5235-0195-4fe5-ac9a-de601d9f8208,Forza Italia Livorno Coordinamento Provinciale,2022-09-26T17:36:17.348Z,d66ac941-0521-44a0-876d-0b5486f7bc23,FI,true,true,Italy,it,2246696818991164,Forza Italia Livorno Coordinamento Provinciale,Facebook
 1b0c161f-a436-41fd-b85c-2bcf94b10ee9,Forza Italia Siena vota Gliatta,2023-04-30T06:53:57.962Z,3fca20d2-79c0-4178-a7b0-c96d22ed10d3,FI,true,true,Italy,it,111549288586630,Forza Italia Siena vota Gliatta,Facebook
@@ -289,6 +297,7 @@ ee782994-b11b-4c3b-9771-8072b2ae6d6f,Lega  Salvini Premier  Bassa Est  Terre di 
 2dca560a-42f6-4590-a983-e8b0ea7aa9e4,Forza Italia Marche,2022-09-05T20:37:31.700Z,614ca07a-45ec-4c03-8abb-85e5e57ed9a1,FI,true,true,Italy,it,103799821163593,Forza Italia Marche,Facebook
 3583ef47-7cd7-441a-b3fa-3e7863a1e0c6,Forza Italia Veneto,2022-09-13T10:19:13.602Z,6550a248-4377-44a9-83d1-c9d631377ae4,FI,true,true,Italy,it,530299917097704,Forza Italia Veneto,Facebook
 62980266-a4b0-4d13-8cc0-43c12c23d710,Forza Italia Mantova,2023-02-07T15:06:09.472Z,a4be08a7-469f-40fd-b724-9c386186e297,FI,true,true,Italy,it,104907528983804,Forza Italia Mantova,Facebook
+6e2336fd-f1c0-4a68-8d7c-b670f76c1cad,Forza Italia Sermoneta,2023-10-31T05:37:53.066Z,75a7a656-cb3b-4b70-949f-8a3046989a44,FI,true,true,Italy,it,109755608704543,Forza Italia Sermoneta,Facebook
 7038dc72-bcb4-45d9-863f-61614ff6f87c,Forza Italia,2022-08-16T15:24:28.569Z,afc99874-f982-498a-9f69-fc391da5e56c,FI,true,true,Italy,it,172265396249029,Forza Italia,Facebook
 77d88cb3-8eb5-471b-a409-f74f9ee932b7,Mirco Lanteri forza Italia Fiumicino,2023-04-04T10:54:38.465Z,058ebd45-b110-4121-afd8-a701c92364d0,FI,true,true,Italy,it,103182766076582,Mirco Lanteri forza Italia Fiumicino,Facebook
 7a19a73c-fcbd-46d9-87dc-9ce9c2bc1ffc,Forza Italia Gallicano nel Lazio,2023-04-29T06:54:22.396Z,fd2fe906-689b-481f-b7f6-a8b98cbb52c7,FI,true,true,Italy,it,108237552218850,Forza Italia Gallicano nel Lazio,Facebook
@@ -374,6 +383,7 @@ fb9c3396-e20b-45c0-a25a-74ccb86d2ae0,Forza Italia Ferrara,2022-09-07T07:15:42.08
 8f47fa3d-5804-434c-b254-1d4b177c64b5,Giuseppe Cappa M5S,2022-09-19T11:45:38.054Z,1827109c-7bf5-4d3a-8fdd-649f6cb36e4e,5S,true,true,Italy,it,101291326077360,Giuseppe Cappa M5S,Facebook
 91697dd4-18a2-4e43-8aea-dc29eb1b8756,Giovanni Galimberti M5S,2023-02-13T10:54:28.776Z,c1b72233-7773-4971-ae6c-ea465f37a78f,5S,true,true,Italy,it,100497942813661,Giovanni Galimberti M5S,Facebook
 95674b2b-6d38-4fa2-b4e1-67cee9b1acaf,Ivano Martinetti,2023-02-11T10:54:05.189Z,58ae8470-97e6-487a-b07d-a1e10bf2c9c3,5S,true,true,Italy,it,2129952287061876,Ivano Martinetti,Facebook
+98159685-6fb3-4f65-a201-02b5e0b73291,MoVimento 5 Stelle Spoleto,2023-09-23T05:07:54.588Z,bf8df96c-b5bf-4988-af38-79ad14e4f0c1,5S,true,true,Italy,it,528079647235631,MoVimento 5 Stelle Spoleto,Facebook
 98edf8ac-fc0b-45dc-ad57-8034e6123dc8,M5S San Donato Milanese,2023-03-03T10:54:21.536Z,ab7c36be-606f-406d-9e9f-31a952d0160d,5S,true,true,Italy,it,101696411293010,M5S San Donato Milanese,Facebook
 9b9970d5-21d8-4714-a5f4-ab1bc587a333,Donatella Bianchi Presidente,2023-02-13T10:54:26.788Z,c731612c-fce4-46d5-b7df-cd037592c400,5S,true,true,Italy,it,110937805223107,Donatella Bianchi Presidente,Facebook
 9bb34a6f-be20-4e71-9d16-02addf5bd6f2,Ezio Roi consigliere m5s Imola,2023-02-15T10:54:13.715Z,e8a430cc-4710-4725-9a57-dede1c3aec84,5S,true,true,Italy,it,119481686508130,Ezio Roi consigliere m5s Imola,Facebook
@@ -383,6 +393,7 @@ a7efcc0e-a56b-4782-89bb-8d4e6cb2b452,Giuseppe Conte,2022-09-21T08:45:30.766Z,6d9
 a7f058e2-5ce7-4cf3-8615-fcf19f71a041,Luca Cremonini - Candidato M5S Regione Lombardia,2023-02-15T10:54:12.289Z,5511c48e-f11c-476d-b979-0364a881b715,5S,true,true,Italy,it,117157567931471,Luca Cremonini - Candidato M5S Regione Lombardia,Facebook
 adbd83cf-0269-4812-a5dc-36b358f4c159,MoVimento 5 Stelle Sicilia,2022-09-19T11:45:34.292Z,9a12893f-e714-4335-9044-e01411418eac,5S,true,true,Italy,it,221238591258991,MoVimento 5 Stelle Sicilia,Facebook
 b43aac9e-a949-464f-b39c-da438cbb8790,MoVimento 5 Stelle Friuli Venezia Giulia,2023-04-04T10:54:36.530Z,2ca1a6a4-544f-432e-829c-eb63913797fd,5S,true,true,Italy,it,415004275231273,MoVimento 5 Stelle Friuli Venezia Giulia,Facebook
+b77e8cb2-658f-4fc0-a154-e57b7ea68bd3,Movimento 5 Stelle Perugia,2023-11-06T05:07:43.776Z,64af2383-8ad4-4252-a7cb-e05655a0c573,5S,true,true,Italy,it,577762015574948,Movimento 5 Stelle Perugia,Facebook
 b911b83d-6eb3-4d2d-b336-83946b564488,Movimento 5 Stelle - Marino,2022-09-26T17:36:17.180Z,ccd263be-04e2-4a84-8df9-224da5f87a14,5S,true,true,Italy,it,182732758445394,Movimento 5 Stelle - Marino,Facebook
 bf9c7716-b246-4b8a-a238-8023c7e5676e,Movimento 5 Stelle Quarto,2023-03-02T10:54:19.148Z,f921e2fe-6f8f-4eb9-a8e2-f2d41a8ab900,5S,true,true,Italy,it,1656605087791434,Movimento 5 Stelle Quarto,Facebook
 c3fb6511-c85d-4e50-b141-f8dad5aa5b3d,Luca Pietrolucci-M5S Latina,2023-05-08T06:54:05.902Z,ed6392c1-803a-4759-9102-850ce5ead55b,5S,true,true,Italy,it,104232199301096,Luca Pietrolucci-M5S Latina,Facebook
@@ -396,6 +407,7 @@ d29d2037-ae19-4918-a72e-ee9a34582485,Federica Giorgi candidata  M5S camera dei d
 d47949f3-c15d-49d6-b3cb-993347852995,Mariano Comense 5 Stelle,2022-09-26T17:36:23.203Z,ac9d9728-def7-4380-8043-ec76ff92f8aa,5S,true,true,Italy,it,348556235248648,Mariano Comense 5 Stelle,Facebook
 dd033a19-0eed-4154-bd4c-667302cd3d39,Danilo Talento- Portavoce M5S Santa Maria Capua Vetere,2023-03-08T14:55:51.443Z,87250a78-ffab-4fee-8a0c-5acf5e624098,5S,true,true,Italy,it,108387794848711,Danilo Talento- Portavoce M5S Santa Maria Capua Vetere,Facebook
 dfe2668b-d6b2-4298-aa9d-5354e242d9ba,riccardodipalma_m5s,2023-06-24T06:48:26.422Z,8d7b4386-783c-4f0d-bbc6-22335ebfcad4,5S,true,true,Italy,it,100121569799795,riccardodipalma_m5s,Facebook
+e223ed69-f5c7-4c66-9c4e-c957630d4709,Movimento 5 Stelle Brunico - 5 Sterne Bewegung Bruneck,2023-09-29T05:08:04.205Z,eb523ea7-2dce-453b-866a-8de0bf437f94,5S,true,true,Italy,it,103151494817277,Movimento 5 Stelle Brunico - 5 Sterne Bewegung Bruneck,Facebook
 e5e5359e-b51c-449f-9166-a257ae00f68b,Stefano Santoro M5S,2023-04-26T06:54:35.929Z,50b4acb3-426d-4650-94db-567e3b4bea6b,5S,true,true,Italy,it,104959212271350,Stefano Santoro M5S,Facebook
 e5fb8fc8-a2b3-473b-aa03-5176944b746b,Gennaro Saiello M5S,2022-09-11T12:33:05.156Z,19651224-a4bd-461b-a122-bbf9fd7c386b,5S,true,true,Italy,it,852722901422326,Gennaro Saiello M5S,Facebook
 e6b91715-2d43-49ba-b0b2-fa20cf7da07e,Giuseppe Cracchiolo Candidato M5S Senato,2022-09-05T20:37:32.354Z,56e819d2-487d-4a11-8b7b-1e18afef392d,5S,true,true,Italy,it,104324885728035,Giuseppe Cracchiolo Candidato M5S Senato,Facebook
@@ -405,6 +417,7 @@ ed0d942b-2378-4f60-8088-1fe70b4c56fd,MoVimento 5 Stelle Piemonte,2023-05-01T06:5
 ef3e3227-bf68-4ae6-856f-19ebcd8f5352,Ilaria Dal Zovo - M5S Friuli Venezia Giulia,2022-09-07T07:15:44.006Z,b9537794-1bd6-45cc-a9cc-1ad990c5dfdc,5S,true,true,Italy,it,168359210182721,Ilaria Dal Zovo - M5S Friuli Venezia Giulia,Facebook
 f13be170-11b1-422a-bb58-bf586e42fe76,Giampaolo Caruso - M5S,2022-09-07T07:15:42.282Z,8ca851c1-c3a9-4846-9ac7-c6e1a6f79894,5S,true,true,Italy,it,105297838983255,Giampaolo Caruso - M5S,Facebook
 f55f4384-6a78-43b5-a27c-b23f7a27273c,Anna Sacchetti-M5S Latina - Candidata al Senato Uninominale Lazio 06,2022-09-11T12:33:07.191Z,1d7dca55-39ff-4a82-8079-0e11dd934b16,5S,true,true,Italy,it,103492778728792,Anna Sacchetti-M5S Latina - Candidata al Senato Uninominale Lazio 06,Facebook
+f8f00189-0cee-4126-ad62-a792d944f18e,5 Stelle - San Benedetto del Tronto,2023-10-18T05:07:52.292Z,0c0e173d-1f62-44f1-8a0b-b7eb606fa0fd,5S,true,true,Italy,it,785532501580740,5 Stelle - San Benedetto del Tronto,Facebook
 facd9987-6449-47b7-ab33-747a449e970e,MoVimento 5 Stelle Brugherio,2023-05-03T06:53:53.489Z,3a77d066-da4f-443c-bf9f-90736a5ac59e,5S,true,true,Italy,it,134891670025849,MoVimento 5 Stelle Brugherio,Facebook
 fc5992ca-f889-46c2-a3ed-b7e12282ba1f,Lidia Adorno - M5S,2022-09-11T12:33:05.497Z,0b01e12b-3ecd-4b42-9488-ff9aa52dbab7,5S,true,true,Italy,it,117783965076553,Lidia Adorno - M5S,Facebook
 00b51c52-6f2e-446f-9c41-aba21e7ac27d,Fratelli d'Italia Gorgonzola,2023-04-04T10:54:38.160Z,39978bb0-2d93-4f6d-8b17-aa74c567d080,FdI,true,true,Italy,it,303258723202454,Fratelli d'Italia Gorgonzola,Facebook
@@ -423,8 +436,10 @@ fc5992ca-f889-46c2-a3ed-b7e12282ba1f,Lidia Adorno - M5S,2022-09-11T12:33:05.497Z
 1fdf7593-0e2e-4240-abf4-4d287e6dc7b8,Fratelli d'Italia Pogliano Milanese,2022-09-21T08:45:37.785Z,14070c71-34cb-4e89-ac48-82d2c29e5c6b,FdI,true,true,Italy,it,102402481317329,Fratelli d'Italia Pogliano Milanese,Facebook
 2122af32-e165-437a-9b18-14bfb2150e6d,Marika Diminutto - Fratelli d'Italia,2023-02-17T10:54:11.634Z,8e3b8541-8dd2-4df3-be39-cd1dafca118c,FdI,true,true,Italy,it,287539351688695,Marika Diminutto - Fratelli d'Italia,Facebook
 213faa59-a45d-48ab-84a4-82d500990075,Fratelli d'Italia Senato,2022-09-05T20:37:28.838Z,fb1c72ba-fa0c-4e32-b9df-f33ca6277ce6,FdI,true,true,Italy,it,180329672596502,Fratelli d'Italia Senato,Facebook
+2207d8c3-9a17-4c65-bfab-fdaa2da089b9,Fratelli d’Italia Novate,2023-11-03T05:08:00.652Z,c9726e16-efdf-49ca-9266-3ff9301468c4,FdI,true,true,Italy,it,886465878133487,Fratelli d’Italia Novate,Facebook
 240866a0-c901-46fc-a9f9-789233ef2351,Teresa Pino candidata Regione Siciliana con Fratelli d' Italia,2022-09-05T20:37:29.537Z,b0078182-af78-4db8-9e56-170a49714378,FdI,true,true,Italy,it,100837159415145,Teresa Pino candidata Regione Siciliana con Fratelli d' Italia,Facebook
 24c949ec-ffae-4176-938f-db2c118f743a,Fratelli d'Italia - Tivoli,2022-09-19T11:45:37.716Z,6867c2c3-632d-490b-aafb-bdec7c063f05,FdI,true,true,Italy,it,291602364802477,Fratelli d'Italia - Tivoli,Facebook
+2677e500-2821-425e-8993-e984d74b37f6,Fratelli d'Italia Schio-Val Leogra,2023-10-30T05:07:50.164Z,4283335f-a63b-4d89-82ae-19e32c049256,FdI,true,true,Italy,it,1625596014365745,Fratelli d'Italia Schio-Val Leogra,Facebook
 282354c0-bf68-4da7-ac41-beef6bfa48a5,Daniele Maura  Fratelli d'Italia,2023-02-09T06:28:51.098Z,2eb6a966-aa2b-48d4-b94a-b786631abccb,FdI,true,true,Italy,it,2444440952252936,Daniele Maura  Fratelli d'Italia,Facebook
 29672c64-ec7c-472f-9509-6bfdb8f0a70c,Fratelli d'Italia - Biella,2023-02-12T10:54:10.209Z,245784e9-3ea6-4d6f-b067-cf6438745a36,FdI,true,true,Italy,it,383185788438302,Fratelli d'Italia - Biella,Facebook
 2b0006e3-f20d-41e2-a30d-f3720b7c0303,Fratelli d'Italia - Valle d'Aosta,2023-09-08T05:08:01.063Z,70061cc2-dbcf-47ef-b024-8f1678b161bc,FdI,true,true,Italy,it,106772345557205,Fratelli d'Italia - Valle d'Aosta,Facebook
@@ -432,6 +447,7 @@ fc5992ca-f889-46c2-a3ed-b7e12282ba1f,Lidia Adorno - M5S,2022-09-11T12:33:05.497Z
 2e642971-e934-4ead-bd2b-7c547e75f978,Fratelli d'Italia Colleferro,2023-03-08T17:59:43.268Z,015ae189-d864-4223-ba31-e0e863fdb0a3,FdI,true,true,Italy,it,105953752371625,Fratelli d'Italia Colleferro,Facebook
 30cf83bf-a0f5-48cb-992c-88750ecb0ddf,Fratelli d'Italia Treviglio - Circolo Territoriale,2022-09-19T11:45:39.408Z,65575160-1e44-48b6-ba72-1315aa7587d3,FdI,true,true,Italy,it,1429331064041420,Fratelli d'Italia Treviglio - Circolo Territoriale,Facebook
 3123d817-7243-4589-a296-ed69c8a64f8d,Fratelli d'Italia Gioia Tauro,2023-07-20T06:08:12.900Z,58447d73-3d7f-42af-ae6e-e30ea04edac5,FdI,true,true,Italy,it,109908418185192,Fratelli d'Italia Gioia Tauro,Facebook
+3980230e-0b3c-4adb-9a95-dd6666f8cbca,Circolo Fratelli d’Italia Pero,2023-11-02T05:08:52.364Z,19049845-5256-4448-ae14-1606edc1cdd3,FdI,true,true,Italy,it,111996558057574,Circolo Fratelli d’Italia Pero,Facebook
 3982dc6f-7e25-4c7a-8f2c-4e7a8cb092f9,Marco Zenatti - Fratelli d'Italia Circolo Rovereto,2023-09-26T05:09:41.998Z,d92f4068-bd31-46ad-ab30-1bacb29428b1,FdI,true,true,Italy,it,100181748819789,Marco Zenatti - Fratelli d'Italia Circolo Rovereto,Facebook
 3b7e346a-284d-4886-a50d-a6734282cfb1,Fratelli d'Italia - Cerignola - Fg,2023-02-14T10:54:25.511Z,6c00ff88-05c9-4ec8-943c-8843678a9603,FdI,true,true,Italy,it,172889129934299,Fratelli d'Italia - Cerignola - Fg,Facebook
 424553bc-8c2c-4997-bed3-c7b347c21a9e,Fratelli d'Italia Sciacca - Circolo Territoriale Marina - San Michele,2022-09-07T07:15:42.494Z,a36eea21-cc9d-4f72-8a99-63bbcbcaa964,FdI,true,true,Italy,it,108206581593168,Fratelli d'Italia Sciacca - Circolo Territoriale Marina - San Michele,Facebook
@@ -444,6 +460,7 @@ fc5992ca-f889-46c2-a3ed-b7e12282ba1f,Lidia Adorno - M5S,2022-09-11T12:33:05.497Z
 50c3922e-8e47-40fd-bbcb-bb915e66f688,Fratelli d'Italia Fontanafredda,2022-09-26T17:36:20.925Z,6b235858-08d4-47fb-be63-fa6a55c7ec52,FdI,true,true,Italy,it,807875852711250,Fratelli d'Italia Fontanafredda,Facebook
 539ed379-1923-4d75-8403-9e6f2cb76732,Fratelli D’Italia Sacile,2022-09-15T13:23:42.796Z,cf2662fd-af22-47b4-80e6-d1a84e8a92ab,FdI,true,true,Italy,it,201860970558951,Fratelli D’Italia Sacile,Facebook
 580947c8-4b02-464b-b6d6-082429086e3f,Fratelli d'Italia Azzano Decimo,2022-09-19T11:45:36.913Z,866aab3f-1135-419d-89aa-e36858e6f610,FdI,true,true,Italy,it,195754681965736,Fratelli d'Italia Azzano Decimo,Facebook
+5ba8e106-060a-46de-9673-e17b1d4c1aef,Circolo Territoriale Fratelli d'Italia Rapallo,2023-12-11T05:07:21.779Z,9999060b-e6dd-401e-8a15-73494e73a739,FdI,true,true,Italy,it,112763524637907,Circolo Territoriale Fratelli d'Italia Rapallo,Facebook
 5cbcced9-a8c9-4d5b-9ec5-abe47d79b6a9,Daria Cascarano - Fratelli d'Italia,2023-10-07T05:08:04.365Z,07653248-9a7c-492a-a9fa-f305b56816de,FdI,true,true,Italy,it,225209099449660,Daria Cascarano - Fratelli d'Italia,Facebook
 612b668f-7552-4fcd-8b29-3078f7aeed77,Fratelli d'Italia per Pomezia,2023-05-11T06:54:32.582Z,6bdc7e54-527c-45b9-8133-372f56f63a34,FdI,true,true,Italy,it,103001741634974,Fratelli d'Italia per Pomezia,Facebook
 612d4f86-1898-4773-b6f3-8c2e4d5d5572,Fratelli d'Italia Jerzu,2022-09-15T13:23:39.032Z,a1929349-1397-4f8c-a544-84db06e8e5b5,FdI,true,true,Italy,it,203741333099796,Fratelli d'Italia Jerzu,Facebook
@@ -458,6 +475,7 @@ fc5992ca-f889-46c2-a3ed-b7e12282ba1f,Lidia Adorno - M5S,2022-09-11T12:33:05.497Z
 68d1d7ba-4909-4ba5-aa7c-fa8173f23475,Fratelli d'Italia Piacenza,2022-09-07T07:15:43.534Z,5d7ef8d1-82c6-4e69-8614-c4be7dfa5212,FdI,true,true,Italy,it,320577218132562,Fratelli d'Italia Piacenza,Facebook
 697dadfa-c583-4367-9fbf-d58aa18af8e5,"Fratelli d'Italia circolo territoriale Siracusa ""Aretusa""",2023-04-21T06:54:34.936Z,e8b299ed-5785-4967-8d8f-f8047127eab6,FdI,true,true,Italy,it,1940889742621855,"Fratelli d'Italia circolo territoriale Siracusa ""Aretusa""",Facebook
 6a1169f5-dfd3-4795-84dd-cd0a9572c98b,Fratelli d'Italia - Priolo Gargallo,2023-04-04T10:54:38.006Z,f2d9aa99-ec8d-41a2-a5a4-c4c52bd4f3e9,FdI,true,true,Italy,it,102695372532650,Fratelli d'Italia - Priolo Gargallo,Facebook
+6caf9086-1cc6-4848-a39b-eb4b19415d98,Fratelli d'Italia Cassolnovo,2023-12-06T05:07:40.114Z,b9a03017-9204-404a-b2f5-3070d2c20089,FdI,true,true,Italy,it,146667038538978,Fratelli d'Italia Cassolnovo,Facebook
 6d07d057-365d-47de-8630-1fd3f59ec5d5,Fratelli d'Italia Pianoro,2023-08-16T05:08:22.049Z,2e721b06-dc2f-43aa-8359-110e9addb850,FdI,true,true,Italy,it,108395602004570,Fratelli d'Italia Pianoro,Facebook
 6f9b4e3d-c424-42fd-8c68-8d92be310b9f,Fratelli d'Italia  Modena,2022-09-11T12:33:06.736Z,90be1a34-fc4b-45fb-8a0f-ccc48fe6a42d,FdI,true,true,Italy,it,230020197189579,Fratelli d'Italia  Modena,Facebook
 7ea1bbf9-abd9-4232-ad92-3545d27449a4,Mara Fontebasso Sindaco - Fratelli d'Italia Nervesa della Battaglia,2023-05-06T06:54:07.697Z,5c31a17a-e6c0-43fb-9004-8db3fb3840e3,FdI,true,true,Italy,it,115518686755319,Mara Fontebasso Sindaco - Fratelli d'Italia Nervesa della Battaglia,Facebook
@@ -565,10 +583,12 @@ fa3765df-1f9e-4794-b8e6-4b3d78dfd43e,Porto Sant'Elpidio in AZIONE,2023-02-26T10:
 ffa34d21-311a-45b9-8d41-6c231d26c84f,Reggio Emilia in Azione,2023-03-08T19:57:18.207Z,c1229959-191e-409f-a1cf-4060ab6a3d21,Az,true,true,Italy,it,105161477637439,Reggio Emilia in Azione,Facebook
 065b8cb3-c93c-4eb6-8a2f-5a8849b1ef22,Italia Viva Scicli,2022-09-07T07:15:43.270Z,f3e13db0-76bf-4d5f-a907-20f0148d9b3f,Viv,true,true,Italy,it,106625428600453,Italia Viva Scicli,Facebook
 16e5b2f5-8e8a-419d-87ea-732c0ad8b0c8,Italia Viva Bari,2023-06-27T06:58:06.164Z,45ed5e96-a394-4099-a451-378f34c0ca7c,Viv,true,true,Italy,it,117799364582806,Italia Viva Bari,Facebook
+1a38edf2-1f4a-4083-aade-4529881c3460,Italia Viva Misano,2023-10-02T05:07:36.165Z,0d631628-bd5c-4a60-865b-d20ceaf35bc7,Viv,true,true,Italy,it,406573562780127,Italia Viva Misano,Facebook
 20675e42-fb73-4a31-a24c-ba5ca4f2039c,Italia VIVA Bareggio,2022-09-19T11:45:35.805Z,e365b11e-487a-4668-a3fe-b593edd42587,Viv,true,true,Italy,it,112967896748794,Italia VIVA Bareggio,Facebook
 245a287c-ea9a-4c87-8ef0-7a63e72a26ee,Segrate Futura - Italia Viva,2023-02-12T10:54:10.523Z,1277c6d2-6e08-483f-a46e-0db2b70a8020,Viv,true,true,Italy,it,111875616970663,Segrate Futura - Italia Viva,Facebook
 273aff4c-a639-4f19-ae8e-01f6e599888a,Matteo Renzi,2022-09-05T20:37:28.213Z,4db58a39-977c-4017-9c08-ec13e83dd0f9,Viv,true,true,Italy,it,113335124914,Matteo Renzi,Facebook
 2c5cb62a-29ba-41d2-b0ca-3d68b66ce017,Italia Viva: comitato Carpi e Terre Vive,2022-09-26T17:36:16.048Z,ed3c9e01-a078-4b4e-8ed4-0b3f0771939c,Viv,true,true,Italy,it,106128614209732,Italia Viva: comitato Carpi e Terre Vive,Facebook
+333626f6-5942-4e62-8c37-b393f10abf45,Italia Viva - Busto Arsizio,2023-10-03T05:07:56.568Z,723a2190-1c33-4eb8-ae6a-801b28ed17c7,Viv,true,true,Italy,it,100951384642678,Italia Viva - Busto Arsizio,Facebook
 34116364-fe28-4a61-92c9-3af7c4e3a4eb,Italia Viva Bergamo,2022-09-11T12:33:05.172Z,78719bd2-33cf-40cf-bb8f-1d9e693483e1,Viv,true,true,Italy,it,109090593856460,Italia Viva Bergamo,Facebook
 36238ea3-7651-4d1f-ac33-fba997d5018c,Italia Viva - Gravina in Puglia,2022-09-26T17:36:19.701Z,b4928fa4-fcd3-44fe-acc6-0210abc00bda,Viv,true,true,Italy,it,844173775620946,Italia Viva - Gravina in Puglia,Facebook
 3d20731d-ce5c-4117-9246-5597d21bcd48,Italia Viva Padova,2022-09-13T10:19:16.924Z,cb087a36-1675-43f2-a606-89f26df9600c,Viv,true,true,Italy,it,2039584306154147,Italia Viva Padova,Facebook
@@ -578,12 +598,15 @@ ffa34d21-311a-45b9-8d41-6c231d26c84f,Reggio Emilia in Azione,2023-03-08T19:57:18
 6f373533-a47c-49ea-8f9f-98e393b40005,Con Italia Viva Raffaela M.Sateriale,2022-09-13T10:19:17.011Z,c6dd7217-b3df-4e08-b493-94cd786d429a,Viv,true,true,Italy,it,103532707728605,Con Italia Viva Raffaela M.Sateriale,Facebook
 70281bbc-f0c5-49cf-b009-548b99d7abd4,Lisa Noja,2023-02-10T10:54:25.543Z,250eae51-18a4-47ef-9935-7849cb9368f4,Viv,true,true,Italy,it,2034460030163713,Lisa Noja,Facebook
 70564422-a71b-4efc-b5ee-fcd1d2ad9a49,Maria Elena Boschi,2022-09-21T08:45:28.628Z,c926154d-4fe5-474d-8ec8-7e50323d6006,Viv,true,true,Italy,it,505317482889209,Maria Elena Boschi,Facebook
+755da725-699f-4c1f-8aec-889287bed469,Italia Viva Trieste,2023-11-04T05:07:48.457Z,57e53b8f-3ded-46c5-8ab3-1ece11495b39,Viv,true,true,Italy,it,102045847904264,Italia Viva Trieste,Facebook
+7688f015-5a37-44b6-b129-7dd76d5c49cb,Italia Viva San Casciano V.P.,2023-12-02T17:15:03.868Z,8f7d774e-013d-4b1d-bfbf-c7e58c95f2f9,Viv,true,true,Italy,it,492848030733464,Italia Viva San Casciano V.P.,Facebook
 8146a9aa-c6ee-4f88-93b3-3d5a954d2916,"Italia Viva, Comitato Sapere- Pietrasanta",2022-09-07T07:15:43.766Z,050302cb-8432-4f6d-9254-7535ab9f599c,Viv,true,true,Italy,it,783519498687809,"Italia Viva, Comitato Sapere- Pietrasanta",Facebook
 832bf5e3-7520-4244-9fb0-400a97015539,Italia Viva - San Donato Milanese,2022-09-26T17:36:18.163Z,5159f410-75a3-4ba4-a810-6bd1ddc66827,Viv,true,true,Italy,it,1722311501322692,Italia Viva - San Donato Milanese,Facebook
 94fde791-5d7b-40a2-921c-cb2bcb1a58dd,Italia Viva Varese,2022-09-19T11:45:38.085Z,9c45922c-df94-4dc6-baa7-1f3bce678dc6,Viv,true,true,Italy,it,308572119774811,Italia Viva Varese,Facebook
 a90a0d37-9a3d-416c-849d-1e928f621438,Italia Viva Crescita Catania,2022-09-07T07:15:43.492Z,a757eaad-2157-4437-8c23-4341b8c3f86f,Viv,true,true,Italy,it,360320328086872,Italia Viva Crescita Catania,Facebook
 a99faf93-bf59-4727-b9b2-42cab45bf66a,Italia Viva Ivrea,2023-05-08T06:54:05.539Z,62308035-1426-4d86-9bd1-d2e4ecbbf65c,Viv,true,true,Italy,it,101931597919410,Italia Viva Ivrea,Facebook
 ae8d7f20-a6f9-435e-8f3a-f4b0f7190349,Italia Viva Biella,2022-09-21T08:45:31.303Z,6f2c14ad-7ff4-495a-b3dd-689a72575ce0,Viv,true,true,Italy,it,114160213362217,Italia Viva Biella,Facebook
+b1f909dc-bc8a-467c-86c3-5f945f860863,Gianni Sbetti _ candidato Italia viva _ provinciali Trento 22ottobre2023,2023-09-15T05:07:42.452Z,de093e74-789f-4bb4-aa54-9c173e0d2b20,Viv,true,true,Italy,it,125173617343717,Gianni Sbetti _ candidato Italia viva _ provinciali Trento 22ottobre2023,Facebook
 b6de902b-b1b5-4442-b4c5-226a78e6b092,Italia Viva Bollate,2022-09-07T07:15:40.794Z,0e2bcdd9-c82c-4340-b30c-26e287aef8d1,Viv,true,true,Italy,it,115182886700415,Italia Viva Bollate,Facebook
 bed168aa-5157-4e90-9ee8-b198bc3c1dd9,Italia Viva per il territorio - Crema,2022-09-26T17:36:16.041Z,484a693c-3e9c-4b2f-bd61-93f0fb19dcc7,Viv,true,true,Italy,it,106494490753002,Italia Viva per il territorio - Crema,Facebook
 ce9ceb0f-ed3a-46c2-b9f5-38a6da353405,Italia Viva Gela,2022-09-21T08:45:33.340Z,ffe53b35-c17d-4c59-a1c8-e06d7dcd3b3b,Viv,true,true,Italy,it,109153974584463,Italia Viva Gela,Facebook
